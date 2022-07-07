@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="Container" style="flex-grow: 1; align-items: center; justify-content: center; background-color: rgb(140, 255, 251);">
+        <ui:Button text="Play" display-tooltip-when-elided="true" name="PlayButton" style="width: 315px; font-size: 30px;" />
+        <ui:Button text="Settings" display-tooltip-when-elided="true" name="SettingsButton" style="width: 315px; font-size: 30px;" />
+        <ui:Button text="Exit" display-tooltip-when-elided="true" name="ExitButton" style="width: 315px; font-size: 30px; display: flex; visibility: visible;" />
+    </ui:VisualElement>
+</ui:UXML>

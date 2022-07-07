@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: b74f2fa5ab1139a4e85fc12c7c696535
+timeCreated: 1526426289
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Character_MedusaSnakes_01
+    100002: //RootNode
+    100004: Root1
+    100006: Snake_01A
+    100008: Snake_01B
+    100010: Snake_01C
+    100012: Snake_01D
+    100014: Snake_01E
+    100016: Snake_01F
+    100018: Snake_02A
+    100020: Snake_02B
+    100022: Snake_02C
+    100024: Snake_02D
+    100026: Snake_02E
+    100028: Snake_03A
+    100030: Snake_03B
+    100032: Snake_03C
+    100034: Snake_03D
+    100036: Snake_03E
+    100038: Snake_04A
+    100040: Snake_04B
+    100042: Snake_04C
+    100044: Snake_04D
+    100046: Snake_04E
+    100048: Snake_04F
+    100050: Snake_05A
+    100052: Snake_05B
+    100054: Snake_05C
+    100056: Snake_05D
+    100058: Snake_05E
+    400000: Character_MedusaSnakes_01
+    400002: //RootNode
+    400004: Root1
+    400006: Snake_01A
+    400008: Snake_01B
+    400010: Snake_01C
+    400012: Snake_01D
+    400014: Snake_01E
+    400016: Snake_01F
+    400018: Snake_02A
+    400020: Snake_02B
+    400022: Snake_02C
+    400024: Snake_02D
+    400026: Snake_02E
+    400028: Snake_03A
+    400030: Snake_03B
+    400032: Snake_03C
+    400034: Snake_03D
+    400036: Snake_03E
+    400038: Snake_04A
+    400040: Snake_04B
+    400042: Snake_04C
+    400044: Snake_04D
+    400046: Snake_04E
+    400048: Snake_04F
+    400050: Snake_05A
+    400052: Snake_05B
+    400054: Snake_05C
+    400056: Snake_05D
+    400058: Snake_05E
+    4300000: Character_MedusaSnakes_01
+    7400000: Medusa_Snakes
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Character_MedusaSnakes_01
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Medusa_Snakes
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 180
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character_MedusaSnakes_01
+        weight: 1
+      - path: Root1
+        weight: 1
+      - path: Root1/Snake_01A
+        weight: 1
+      - path: Root1/Snake_01A/Snake_01B
+        weight: 1
+      - path: Root1/Snake_01A/Snake_01B/Snake_01C
+        weight: 1
+      - path: Root1/Snake_01A/Snake_01B/Snake_01C/Snake_01D
+        weight: 1
+      - path: Root1/Snake_01A/Snake_01B/Snake_01C/Snake_01D/Snake_01E
+        weight: 1
+      - path: Root1/Snake_01A/Snake_01B/Snake_01C/Snake_01D/Snake_01E/Snake_01F
+        weight: 1
+      - path: Root1/Snake_02A
+        weight: 1
+      - path: Root1/Snake_02A/Snake_02B
+        weight: 1
+      - path: Root1/Snake_02A/Snake_02B/Snake_02C
+        weight: 1
+      - path: Root1/Snake_02A/Snake_02B/Snake_02C/Snake_02D
+        weight: 1
+      - path: Root1/Snake_02A/Snake_02B/Snake_02C/Snake_02D/Snake_02E
+        weight: 1
+      - path: Root1/Snake_03A
+        weight: 1
+      - path: Root1/Snake_03A/Snake_03B
+        weight: 1
+      - path: Root1/Snake_03A/Snake_03B/Snake_03C
+        weight: 1
+      - path: Root1/Snake_03A/Snake_03B/Snake_03C/Snake_03D
+        weight: 1
+      - path: Root1/Snake_03A/Snake_03B/Snake_03C/Snake_03D/Snake_03E
+        weight: 1
+      - path: Root1/Snake_04A
+        weight: 1
+      - path: Root1/Snake_04A/Snake_04B
+        weight: 1
+      - path: Root1/Snake_04A/Snake_04B/Snake_04C
+        weight: 1
+      - path: Root1/Snake_04A/Snake_04B/Snake_04C/Snake_04D
+        weight: 1
+      - path: Root1/Snake_04A/Snake_04B/Snake_04C/Snake_04D/Snake_04E
+        weight: 1
+      - path: Root1/Snake_04A/Snake_04B/Snake_04C/Snake_04D/Snake_04E/Snake_04F
+        weight: 1
+      - path: Root1/Snake_05A
+        weight: 1
+      - path: Root1/Snake_05A/Snake_05B
+        weight: 1
+      - path: Root1/Snake_05A/Snake_05B/Snake_05C
+        weight: 1
+      - path: Root1/Snake_05A/Snake_05B/Snake_05C/Snake_05D
+        weight: 1
+      - path: Root1/Snake_05A/Snake_05B/Snake_05C/Snake_05D/Snake_05E
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
